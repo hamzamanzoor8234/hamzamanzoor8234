@@ -272,10 +272,40 @@ I am a **Senior Full-Stack Engineer** with **6+ years of experience** designing,
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 GitHub Ecosystem & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzamanzoor8234&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=4&locale=en&theme=tokyonight" alt="GitHub Stats" height="150" />
-  &nbsp;&nbsp;
+  <strong>Main Tech Profile Languages:</strong><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamanzoor8234&layout=compact&border_radius=4&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h4>👨‍💻 Personal & Open Source</h4>
+      <a href="https://github.com/hamzamanzoor8234" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=hamzamanzoor8234&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=4&locale=en&theme=tokyonight" alt="Personal Stats" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/hamzamanzoor8234" target="_blank"><b>@hamzamanzoor8234</b></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>🏢 Voxbee / Xccelerated</h4>
+      <a href="https://github.com/hmanzoor-xccelerated" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=hmanzoor-xccelerated&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=4&locale=en&theme=tokyonight" alt="Voxbee Stats" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/hmanzoor-xccelerated" target="_blank"><b>@hmanzoor-xccelerated</b></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>💼 TechMate Tech</h4>
+      <a href="https://github.com/HamzamanzoorTechMateTech" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=HamzamanzoorTechMateTech&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=4&locale=en&theme=tokyonight" alt="TechMate Stats" width="100%" />
+      </a>
+      <br/>
+      <a href="https://github.com/HamzamanzoorTechMateTech" target="_blank"><b>@HamzamanzoorTechMateTech</b></a>
+    </td>
+  </tr>
+</table>
