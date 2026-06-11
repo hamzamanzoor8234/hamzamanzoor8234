@@ -14,6 +14,9 @@
     I am a Senior Full-Stack Engineer with 6+ years of experience designing, building, and shipping production-grade SaaS platforms, with a hands-on focus on <b>Generative AI integration</b> and <b>LLM-powered product features</b>. Specializing in event-driven backend architecture (NestJS / Node.js / FastAPI), React / Next.js frontends, and AI orchestration pipelines using OpenAI GPT-4o, Anthropic Claude, and Google Gemini APIs.
   </p>
   <p>
+    I also build open-source tools and products, including <b>WhatsHush</b> (a popular privacy extension &amp; automation tool for WhatsApp Web) and <b>Logaura</b> (a lightweight zero-dependency Node.js colored logger).
+  </p>
+  <p>
     Currently at <b>Voxbee</b>, engineering the full AI media generation stack: multi-model orchestration, AI dubbing/TTS pipelines, GPU inference containers on AWS, BullMQ job queuing, and direct-to-S3 multi-tenant file management.
   </p>
   
@@ -153,6 +156,8 @@
 
 ## 🚀 Projects
 
+*   **WhatsHush** ([whatshush.vercel.app](https://whatshush.vercel.app)): A secure, local-first Chrome extension designed to shield your WhatsApp Web screen from onlookers using hover-blur filters. Includes message scheduling, bulk broadcasting, and a chat repeater. ([Chrome Web Store](https://chromewebstore.google.com/detail/whatshush/kfkhoepldonalkpldnffaeanoffkgbkh) | [GitHub](https://github.com/hamzamanzoor8234/WhatsHush))
+*   **Logaura** (NPM Package): A lightweight, zero-dependency Node.js utility that patches default `console` methods to provide beautiful colored, timestamped terminal logging using ANSI escape codes. ([NPM](https://www.npmjs.com/package/logaura) | [GitHub](https://github.com/hamzamanzoor8234/logaura))
 *   **Voxbee AI Pipelines** (`voxbee.com`): Multi-model orchestration routing AI tasks across OpenAI, Claude, Gemini, ElevenLabs TTS, and ACEStep music generation.
 *   **Marketing.biz**: Social platform aggregator with AI post generation (GPT-4) and image creation (DALL·E 3 / Stable Diffusion).
 *   **SalonX**: Multi-salon booking SaaS with server-side rendered booking widgets.
