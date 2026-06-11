@@ -1,7 +1,8 @@
 <!-- Banners & Dynamic Intro -->
 <p align="center">
-  <img src="images/Gethub-Cover.jpg" alt="Hamza Manzoor MasterHead" width="100%" />
+  <img src="images/Gethub-Cover-New.png" alt="Hamza Manzoor MasterHead" width="100%" />
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
